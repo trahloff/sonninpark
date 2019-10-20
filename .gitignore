@@ -1,0 +1,10 @@
+node_modules
+assets/dist
+
+*.log
+
+**/secrets.json
+.idea
+.firebaserc
+
+.firebase
